@@ -1,0 +1,9 @@
+[project]
+name = "mvtc-durableflow-materials"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pysqlite3>=0.6.2",
+]
